@@ -1,0 +1,19 @@
+# Node and Python virtual environment directories (if any)
+node_modules/
+venv/
+
+# Docker related files
+*.log
+docker-compose.override.yml
+.env
+
+# Logs
+logs/
+*.log
+*.pid
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+
